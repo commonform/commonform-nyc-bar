@@ -1,0 +1,31 @@
+    \ Arbitration; Dispute Resolution \
+        \ Exclusive Dispute Resolution \ Any dispute, controversy, proceeding or claim arising out of or relating to:
+            \\ this <Agreement> or any other <Transaction Document>, or any of the <Transactions> or the subject matter hereof or thereof,
+            \\ the breach, termination, enforcement, interpretation or validity of this <Agreement>, or any other <Transaction Document>, including the determination of the scope or applicability of this agreement to arbitrate, or
+            \\ the relationship among the parties hereto or thereto,
+        in each case, whether in contract, tort, common or statutory law, equity or otherwise (collectively, a ""Dispute"") may only be resolved by arbitration as provided in {Exclusive Dispute Resolution}. No party hereto shall commence any litigation with respect to a <Dispute> except as expressly set forth in {Exclusive Dispute Resolution} and {Specific Performance}.
+        # {{#Preserve Equitable Relief}}
+        in each case, whether in contract, tort, common or statutory law, equity or otherwise (collectively, a ""Dispute"") may only be resolved by arbitration as provided in {Exclusive Dispute Resolution}. No party hereto shall commence any litigation with respect to a <Dispute> except as expressly set forth in {Exclusive Dispute Resolution}.
+        # {{/Preserve Equitable Relief}}
+        # {{^Special Rules}}
+        \ Arbitration \ To resolve a <Dispute>, any party hereto may commence an arbitration to be administered by [Name of Private Arbitration Firm] pursuant to its [Description of Arbitration Rules]. The arbitration shall be conducted before a single arbitrator, in New York, New York. In the event of a conflict between the rules of the selected arbitration firm and this <Agreement>, the terms of this <Agreement> shall govern. The decision of the arbitrator shall be final, binding on the parties hereto, and not subject to further review.
+        # {{/Special Rules}}
+        # {{#Special Rules}}
+        \ Arbitration \ To resolve a <Dispute>, any party hereto may commence an arbitration to be administered by [Name of Private Arbitration Firm] pursuant to its [Description of Arbitration Rules]. The arbitration shall be conducted before a single arbitrator, in New York, New York, and in accordance with the [Description of Special or Expedited Arbitration Rules]. In the event of a conflict between the rules of the selected arbitration firm and this <Agreement>, the terms of this <Agreement> shall govern. The decision of the arbitrator shall be final, binding on the parties hereto, and not subject to further review.
+        # {{/Special Rules}}
+        # {{#English Rule}}
+        \ Prevailing Party Fees \ In any arbitration of a <Dispute>, the arbitrator shall award to the prevailing party, if any, the costs and attorneys' fees reasonably incurred by the prevailing party in connection with the arbitration. If the arbitrator determines a party to be the prevailing party under circumstances where the prevailing party won on some but not all of the claims and counterclaims, the arbitrator may award the prevailing party an appropriate percentage of the costs and attorneys' fees reasonably incurred by the prevailing party in connection with the arbitration. In the event that litigation is commenced to enforce an arbitration award, the prevailing party shall be entitled to recover reasonable attorneys' fees and costs whether or not such action proceeds to judgment.
+        # {{/English Rule}}
+        \ Judgment on Award \ Judgment upon any award rendered by the arbitrator may be entered in any court having jurisdiction. Without limiting the foregoing, each party consents to the non exclusive jurisdiction of
+            \\ the United States District Court for the [District] District of New York, or
+            \\ the Courts of the State of New York, [County] County
+        (the ""Designated Court""), to render judgment on an award. Each of the parties hereto hereby irrevocably submits with regard to any such action or proceeding for itself and in respect of its property, generally and unconditionally, to the personal jurisdiction of the <Designated Court>. Each of the parties hereto hereby irrevocably waives, and agrees not to assert as a defense, counterclaim or otherwise, in any action or proceeding to enforce an arbitration award rendered pursuant to this <Agreement>,
+            \\ any claim that it is not personally subject to the jurisdiction of the <Designated Court>,
+            \\ any claim that it or its property is exempt or immune from the jurisdiction of the <Designated Court> or from any legal process commenced in such <Designated Court> (whether through service of notice, attachment prior to judgment, attachment in aid of execution of judgment, execution of judgment or otherwise), and
+            \\ to the fullest extent permitted by applicable <Law>, any claim that
+                \\ the suit, action, or proceeding in such <Designated Court> is brought in an inconvenient forum,
+                \\ the venue of such suit, action or proceeding is improper, or
+                \\ such arbitration award may not be enforced in or by such <Designated Court>.
+        # {{#Confidentiality}}
+        \ Dispute Confidentiality \ In addition to the requirements of {Confidentiality}, no party shall directly or indirectly make any disclosure with respect to a <Dispute> or the resolution of a <Dispute>, except to such party's legal counsel, to persons who will be witnesses or experts in connection with an arbitration and to the arbitration panel formulated pursuant to this Section, and except to the extent required by applicable <Law>. Each of the parties hereto acknowledges that the other parties hereto shall have no adequate remedy at law for breach of the provisions of {Dispute Confidentiality} and the harm to the other parties that will result from the disclosure of a <Dispute>. Therefore, each party agrees that the other parties shall be entitled to injunctive relief to enforce the provisions of {Dispute Confidentiality}.
+        # {{/Confidentiality}}

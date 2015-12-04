@@ -1,0 +1,4 @@
+{ "Banks": [
+    false,
+    { "Extended": true },
+    { "Extended": false } ] }

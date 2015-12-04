@@ -1,0 +1,6 @@
+    \ Severability \
+        \\ If any provision of this <Agreement> or any other <Transaction Document> is determined to be invalid, illegal or unenforceable, the remaining provisions of this <Agreement> and the other <Transaction Documents> shall remain in full force, if the essential terms and conditions of this <Agreement> and the other <Transaction Documents> for each party remain valid, binding and enforceable.
+        # {{#Reform}}
+        Furthermore, in lieu of any such invalid or unenforceable term or provision, the parties hereto intend that there shall be added as a part of this <Agreement> a provision as similar in terms to such invalid or unenforceable provision as may be possible and be valid and enforceable.
+        # {{/Reform}}
+        \\ Any provision of this <Agreement> or any other <Transaction Document> held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof or thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.

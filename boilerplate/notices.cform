@@ -1,0 +1,12 @@
+    \ Notices \ All notices and other communications hereunder shall be in writing and shall be deemed duly given
+        \\ on the date of delivery if delivered personally,
+        \\ on the date sent by 
+        # {{#Fax}}
+        facsimile (with confirmation of transmission) or 
+        # {{/Fax}}
+        electronic mail if sent during normal business hours of the recipient during a <Business Day>, and otherwise on the next <Business Day>, if sent after normal business hours of the recipient, provided that in the case of electronic mail, each notice or other communication shall be confirmed within one <Business Day> by dispatch of a copy of such notice pursuant to one of the other methods described herein,
+        \\ if dispatched via a nationally recognized overnight courier service (delivery receipt requested) with charges paid by the dispatching party, on the later of
+            \\ the first <Business Day> following the date of dispatch, or
+            \\ the scheduled date of delivery by such service, or
+        \\ the fifth <Business Day> following the date of mailing, if mailed by registered or certified mail, return receipt requested, postage prepaid to the party to receive such notice, at the following addresses, or such other address as a party may designate from time to time by notice in accordance with this Section.
+    If to [Party's Name]: [Address] with a copy (which shall not constitute notice) to [Counsel's Address].

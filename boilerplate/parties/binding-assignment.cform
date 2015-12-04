@@ -1,0 +1,8 @@
+    \ Binding Effect; Assignment \ This <Agreement> shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns. 
+    # {{^Assign with Consent}}
+    Neither this <Agreement>, nor any right, duty or obligation of any party hereunder, may be assigned or delegated by any party (in whole or in part). 
+    # {{/Assign with Consent}}
+    # {{#Assign with Consent}}
+    Neither this <Agreement>, nor any right, duty or obligation of any party hereunder, may be assigned or delegated by any party (in whole or in part) without the prior written consent of the other parties hereto. 
+    # {{/Assign with Consent}}
+    Any purported assignment of rights or delegation of obligations in violation of this Section will be void. References to a party in this <Agreement> and in any <Transaction Document> also refer to such party's successors and permitted assigns.

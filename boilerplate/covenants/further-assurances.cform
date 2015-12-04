@@ -1,0 +1,8 @@
+    \ Further Assurances \ From and after 
+    # {{^Delayed Closing}}
+    the date hereof, 
+    # {{/Delayed Closing}}
+    # {{#Delayed Closing}}
+    the <Closing Date>, 
+    # {{/Delayed Closing}}
+    the parties shall do or cause to be done all such reasonable acts and things as may be necessary, proper or advisable, consistent with all applicable <Law>, to make effective the <Transactions>. Without limiting the foregoing, each party shall execute and deliver, or cause to be executed and delivered, such further documents and instruments, in each case as may be necessary or proper and reasonable to carry out the provisions and purposes of this <Agreement> and the other <Transaction Documents>.

@@ -1,0 +1,6 @@
+    # {{#Express}}
+    \ No Third-Party Beneficiaries \ Except as set forth in {Third-Party Beneficiaries}, nothing in this <Agreement> is intended or shall be construed to give any person, other than the parties hereto, their successors and permitted assigns, any legal or equitable right, remedy or claim under or in respect of this <Agreement> the <Transaction Documents> or any provision contained herein or therein.
+    # {{/Express}}
+    # {{^Express}}
+    \ No Third-Party Beneficiaries \ Nothing in this <Agreement> is intended or shall be construed to give any person, other than the parties hereto, their successors and permitted assigns, any legal or equitable right, remedy or claim under or in respect of this <Agreement> the <Transaction Documents> or any provision contained herein or therein.
+    # {{/Express}}
