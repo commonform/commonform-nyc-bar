@@ -7,18 +7,18 @@ Any dispute, controversy, proceeding or claim arising out of or relating to:
 - the breach, termination, enforcement, interpretation or validity of this _Agreement_, or any other _Transaction Document_, including the determination of the scope or applicability of this agreement to arbitrate, or
 - the relationship among the parties hereto or thereto,
 
-in each case, whether in contract, tort, common or statutory law, equity or otherwise (collectively, a **Dispute**) may only be resolved by arbitration as provided in {Exclusive Dispute Resolution}. No party hereto shall commence any litigation with respect to a _Dispute_ except as expressly set forth in {Exclusive Dispute Resolution} and {Specific Performance}.
+in each case, whether in contract, tort, common or statutory law, equity or otherwise (collectively, a **Dispute**) may only be resolved by arbitration as provided in [Exclusive Dispute Resolution](#). No party hereto shall commence any litigation with respect to a _Dispute_ except as expressly set forth in [Exclusive Dispute Resolution](#) and [Specific Performance](#).
 
-{{#Preserve Equitable Relief}}in each case, whether in contract, tort, common or statutory law, equity or otherwise (collectively, a **Dispute**) may only be resolved by arbitration as provided in {Exclusive Dispute Resolution}. No party hereto shall commence any litigation with respect to a _Dispute_ except as expressly set forth in {Exclusive Dispute Resolution}.{{/Preserve Equitable Relief}}
+{{#Preserve Equitable Relief}}in each case, whether in contract, tort, common or statutory law, equity or otherwise (collectively, a **Dispute**) may only be resolved by arbitration as provided in [Exclusive Dispute Resolution](#). No party hereto shall commence any litigation with respect to a _Dispute_ except as expressly set forth in [Exclusive Dispute Resolution](#).{{/Preserve Equitable Relief}}
 
 {{^Special Rules}}
 ## Arbitration
-To resolve a _Dispute_, any party hereto may commence an arbitration to be administered by [Name of Private Arbitration Firm] pursuant to its [Description of Arbitration Rules]. The arbitration shall be conducted before a single arbitrator, in New York, New York. In the event of a conflict between the rules of the selected arbitration firm and this _Agreement_, the terms of this _Agreement_ shall govern. The decision of the arbitrator shall be final, binding on the parties hereto, and not subject to further review.
+To resolve a _Dispute_, any party hereto may commence an arbitration to be administered by `Name of Private Arbitration Firm` pursuant to its `Description of Arbitration Rules`. The arbitration shall be conducted before a single arbitrator, in New York, New York. In the event of a conflict between the rules of the selected arbitration firm and this _Agreement_, the terms of this _Agreement_ shall govern. The decision of the arbitrator shall be final, binding on the parties hereto, and not subject to further review.
 {{/Special Rules}}
 
 {{#Special Rules}}
 ## Arbitration
-To resolve a _Dispute_, any party hereto may commence an arbitration to be administered by [Name of Private Arbitration Firm] pursuant to its [Description of Arbitration Rules]. The arbitration shall be conducted before a single arbitrator, in New York, New York, and in accordance with the [Description of Special or Expedited Arbitration Rules]. In the event of a conflict between the rules of the selected arbitration firm and this _Agreement_, the terms of this _Agreement_ shall govern. The decision of the arbitrator shall be final, binding on the parties hereto, and not subject to further review.
+To resolve a _Dispute_, any party hereto may commence an arbitration to be administered by `Name of Private Arbitration Firm` pursuant to its `Description of Arbitration Rules`. The arbitration shall be conducted before a single arbitrator, in New York, New York, and in accordance with the `Description of Special or Expedited Arbitration Rules`. In the event of a conflict between the rules of the selected arbitration firm and this _Agreement_, the terms of this _Agreement_ shall govern. The decision of the arbitrator shall be final, binding on the parties hereto, and not subject to further review.
 {{/Special Rules}}
 
 {{#English Rule}}
@@ -28,8 +28,8 @@ In any arbitration of a _Dispute_, the arbitrator shall award to the prevailing 
 
 ## Judgment on Award
 Judgment upon any award rendered by the arbitrator may be entered in any court having jurisdiction. Without limiting the foregoing, each party consents to the non exclusive jurisdiction of
-- the United States District Court for the [District] District of New York, or
-- the Courts of the State of New York, [County] County
+- the United States District Court for the `District` District of New York, or
+- the Courts of the State of New York, `County` County
 
 (the **Designated Court**), to render judgment on an award. Each of the parties hereto hereby irrevocably submits with regard to any such action or proceeding for itself and in respect of its property, generally and unconditionally, to the personal jurisdiction of the _Designated Court_. Each of the parties hereto hereby irrevocably waives, and agrees not to assert as a defense, counterclaim or otherwise, in any action or proceeding to enforce an arbitration award rendered pursuant to this _Agreement_,
 
@@ -42,5 +42,5 @@ Judgment upon any award rendered by the arbitrator may be entered in any court h
 
 {{#Confidentiality}}
 ## Dispute Confidentiality
-In addition to the requirements of {Confidentiality}, no party shall directly or indirectly make any disclosure with respect to a _Dispute_ or the resolution of a _Dispute_, except to such party's legal counsel, to persons who will be witnesses or experts in connection with an arbitration and to the arbitration panel formulated pursuant to this Section, and except to the extent required by applicable _Law_. Each of the parties hereto acknowledges that the other parties hereto shall have no adequate remedy at law for breach of the provisions of {Dispute Confidentiality} and the harm to the other parties that will result from the disclosure of a _Dispute_. Therefore, each party agrees that the other parties shall be entitled to injunctive relief to enforce the provisions of {Dispute Confidentiality}.
+In addition to the requirements of [Confidentiality](#), no party shall directly or indirectly make any disclosure with respect to a _Dispute_ or the resolution of a _Dispute_, except to such party's legal counsel, to persons who will be witnesses or experts in connection with an arbitration and to the arbitration panel formulated pursuant to this Section, and except to the extent required by applicable _Law_. Each of the parties hereto acknowledges that the other parties hereto shall have no adequate remedy at law for breach of the provisions of [Dispute Confidentiality](#) and the harm to the other parties that will result from the disclosure of a _Dispute_. Therefore, each party agrees that the other parties shall be entitled to injunctive relief to enforce the provisions of [Dispute Confidentiality](#).
 {{/Confidentiality}}

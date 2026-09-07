@@ -1,7 +1,7 @@
 # Confidentiality
 
 ## Obligation of Confidentiality
-Except as provided in {Confidentiality Exceptions}, each of the parties hereto shall keep confidential, and not disclose or use for a purpose other than the _Transactions_, any confidential and proprietary information of any other party hereto (the **Protected Party**), including this _Agreement_ and all of the terms and conditions hereof (collectively, **Confidential Information**).
+Except as provided in [Confidentiality Exceptions](#), each of the parties hereto shall keep confidential, and not disclose or use for a purpose other than the _Transactions_, any confidential and proprietary information of any other party hereto (the **Protected Party**), including this _Agreement_ and all of the terms and conditions hereof (collectively, **Confidential Information**).
 
 ## Confidentiality Exceptions
 [Obligation of Confidentiality](#) shall not restrict a party from disclosing _Confidential Information_ (subject to the limitations of applicable _Law_):

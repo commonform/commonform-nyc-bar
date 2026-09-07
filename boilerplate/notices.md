@@ -7,4 +7,4 @@ All notices and other communications hereunder shall be in writing and shall be 
   - the scheduled date of delivery by such service, or
 - the fifth _Business Day_ following the date of mailing, if mailed by registered or certified mail, return receipt requested, postage prepaid to the party to receive such notice, at the following addresses, or such other address as a party may designate from time to time by notice in accordance with this Section.
 
-If to [Party's Name]: [Address] with a copy (which shall not constitute notice) to [Counsel's Address].
+If to `Party's Name`: `Address` with a copy (which shall not constitute notice) to `Counsel's Address`.
