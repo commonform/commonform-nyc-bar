@@ -1,0 +1,9 @@
+{{^Ignore Conflict of Law}}
+# Governing Law
+This _Agreement_, the other _Transaction Documents_, and any dispute, controversy or proceeding arising out of or relating to this _Agreement_, the other _Transaction Documents_, or the _Transactions_ or the subject matter hereof or thereof or the relationship among the parties hereto or thereto in connection herewith or therewith (in each case whether in contract, tort, common or statutory law, equity or otherwise) shall be governed by the substantive laws of the State of New York.
+{{/Ignore Conflict of Law}}
+
+{{#Ignore Conflict of Law}}
+# Governing Law
+This _Agreement_, the other _Transaction Documents_, and any dispute, controversy or proceeding arising out of or relating to this _Agreement_, the other _Transaction Documents_, or the _Transactions_ or the subject matter hereof or thereof or the relationship among the parties hereto or thereto in connection herewith or therewith (in each case whether in contract, tort, common or statutory law, equity or otherwise) shall be governed by the substantive laws of the State of New York without regard to conflict of law principles thereof or of any other jurisdiction that would cause the application of laws of any jurisdiction other than those of the State of New York.
+{{/Ignore Conflict of Law}}

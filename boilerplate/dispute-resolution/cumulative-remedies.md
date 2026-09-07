@@ -1,0 +1,2 @@
+# Remedies Cumulative
+The rights and remedies of the parties are cumulative and not alternative.

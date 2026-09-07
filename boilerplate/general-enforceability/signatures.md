@@ -1,0 +1,2 @@
+# Signatures/E-delivery
+A manually signed copy of this _Agreement_ or any other _Transaction Documents_ delivered by facsimile, email or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signed copy of this _Agreement_. No legally binding obligation shall be created with respect to a party until such party has delivered or caused to be delivered a manually signed copy of this _Agreement_.

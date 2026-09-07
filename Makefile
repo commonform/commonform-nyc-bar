@@ -1,5 +1,5 @@
 COMMONFORM=node_modules/.bin/commonform
-BOILERPLATE= $(shell find boilerplate/ -type f -name '*.cform')
+BOILERPLATE= $(shell find boilerplate/ -type f -name '*.md')
 
 $(COMMONFORM):
 	npm i

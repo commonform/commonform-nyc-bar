@@ -1,0 +1,2 @@
+# Amendments
+This _Agreement_ may be amended, superseded, canceled, renewed or extended only by a written instrument signed by each of the parties hereto.

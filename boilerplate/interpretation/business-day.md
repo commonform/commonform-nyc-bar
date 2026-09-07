@@ -1,0 +1,14 @@
+# Business Day Defined
+**Business Day** means any day except
+- a Saturday or Sunday or
+{{^Banks}}
+- a day on which the New York Stock Exchange or the NASDAQ Stock Market is closed for trading.
+{{/Banks}}
+{{#Banks}}
+{{#Extended}}
+- any day on which banks in the City of New York are authorized or required by _Law_ or executive order to be closed; provided, however, that Lincoln's Birthday (February 12) and Election Day shall not be excluded from the definition of _Business Day_ by virtue of this clause.
+{{/Extended}}
+{{^Extended}}
+- any day on which banks in the City of New York are authorized or required by _Law_ or executive order to be closed.
+{{/Extended}}
+{{/Banks}}
