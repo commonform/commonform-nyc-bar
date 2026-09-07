@@ -28,7 +28,7 @@ if (!fs.existsSync(path.join(__dirname, 'variants'))) {
 possible(schema)
   .forEach(function (variant, index) {
     fs.writeFileSync(
-      path.join(__dirname, 'variants', (base + '.' + index + '.variant')),
+      path.join(__dirname, 'variants', (base + '-' + index + '.md')),
       Mustache.render(template, variant)
         .replace(/\n+/g, '\n'))
   })

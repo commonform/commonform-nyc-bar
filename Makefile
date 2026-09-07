@@ -1,20 +1,10 @@
-COMMONFORM=node_modules/.bin/commonform
 BOILERPLATE= $(shell find boilerplate/ -type f -name '*.md')
 
-$(COMMONFORM):
-	npm i
-
-.PHONY: variants lint
-
-variants: $(COMMONFORM)
+variants: | node_modules
 	rm -rf variants
 	for form in $(BOILERPLATE); do \
 		node generate-variants.js $$form; \
 	done
 
-lint: variants $(COMMONFORM)
-	for variant in variants/* ; do \
-		echo ; \
-		echo $$variant; \
-		$(COMMONFORM) lint < $$variant | sort -u; \
-	done
+node_modules:
+	npm i
